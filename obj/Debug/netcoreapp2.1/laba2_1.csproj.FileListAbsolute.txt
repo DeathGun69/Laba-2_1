@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\bin\Debug\netcoreapp2.1\laba2_1.deps.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\bin\Debug\netcoreapp2.1\laba2_1.runtimeconfig.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\bin\Debug\netcoreapp2.1\laba2_1.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\bin\Debug\netcoreapp2.1\laba2_1.dll
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\bin\Debug\netcoreapp2.1\laba2_1.pdb
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.dll
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_1\obj\Debug\netcoreapp2.1\laba2_1.pdb
